@@ -1,0 +1,14 @@
+url=https://qa_knr.humansite.com.mx/hlogin.aspx
+usuario=EQUIPOQA
+pass=124578
+empresa=KNR
+razonSocial=LABORATORIOS KENER
+opcion1:Nómina
+subOpcion1:Pago
+subOpcion2:Bandeja de reportes
+opcion2:Conceptos
+opcion3:Tablas & Constantes
+corpo=ORDINARI
+banco=BANAMEX
+compania=LABORATORIOS KENER SA DE CV
+rutaDoc=C:\\Users\\Mario\\AppData\\Local\\Temp\\Evidences\\Dispersion.txt

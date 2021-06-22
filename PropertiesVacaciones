@@ -1,0 +1,11 @@
+url=https://qa_knr.humansite.com.mx/hlogin.aspx
+usuario=EQUIPOQA
+pass=124578
+empresa=KNR
+razonSocial=LABORATORIOS KENER
+opcion1:Directorio
+subOpcion1:Vacaciones
+subOpcion2:Incidencias
+noEmpleado=51
+incidencia=VACACIONES ADELANTADAS
+diasVacaciones=2

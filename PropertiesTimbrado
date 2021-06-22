@@ -1,0 +1,35 @@
+url=https://qa_knr.humansite.com.mx/hlogin.aspx
+usuario=EQUIPOQA
+pass=124578
+empresa=KNR
+razonSocial=LABORATORIOS KENER
+opcion1:Tipos agrupaciones
+opcion2:Conceptos
+opcion3:Tablas & Constantes
+nombreBanco=Banamex
+agrupacion=DED01 CFDI Deducciones
+deduccion=002 ISR
+concepto1=d001
+nombreConcepto1=ISR
+conceptoAgrup=COM25 CFDI Impuestos Retenidos
+impuestoRetenido=ISR
+percepcion=P001
+nombrePercepcion=SUELDO
+idPercepcion=COM45 CFDI Total Gravado Percepciones
+valorPercepcion=Total Gravado Percepciones
+idPercepcion2=PER01 CFDI Percepciones
+valorPercepcion2=Sueldos, Salarios Rayas y Jornales
+tipoTabla=Tabla alfanumérica-alfanumérica larga
+idTabla=CFDI Generalidades CFDI
+entradaCFDI1:COM-MétodoPago
+entradaCFDI2:COM-Moneda
+entradaCFDI3:COM-UsoCFDI
+entradaCFDI4:Porcentaje de subcontratación
+entradaCFDI5:TAG-Versión
+salida=CFDI33NOM12
+tipoTabla2=Tabla alfanumérica-alfanumérica
+idTabla2=COM29 REGIMEN DE EMPLEADOS SAT
+COM29entrada1=1
+COM29entrada2=2
+COM29salida1=02
+COM29salida2=09
